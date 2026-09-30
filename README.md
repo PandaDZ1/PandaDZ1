@@ -15,10 +15,10 @@ Full-stack web developer based in Algeria, working as a freelancer. I design and
 
 | Area | Technologies |
 |---|---|
-| Backend | <img src="assets/icons/nodejs.svg" width="20" height="20" align="absmiddle" alt="Node.js"> Node.js &nbsp;&nbsp; <img src="assets/icons/express.svg" width="20" height="20" align="absmiddle" alt="Express"> Express |
-| Frontend | <img src="assets/icons/react.svg" width="20" height="20" align="absmiddle" alt="React"> React |
-| Databases | <img src="assets/icons/postgresql.svg" width="20" height="20" align="absmiddle" alt="PostgreSQL"> PostgreSQL &nbsp;&nbsp; <img src="assets/icons/mysql.svg" width="20" height="20" align="absmiddle" alt="MySQL"> MySQL &nbsp;&nbsp; <img src="assets/icons/redis.svg" width="20" height="20" align="absmiddle" alt="Redis"> Redis |
-| Scripting | <img src="assets/icons/bash.svg" width="20" height="20" align="absmiddle" alt="Bash"> Bash |
+| Backend | <img src="https://skillicons.dev/icons?i=nodejs" width="20" height="20" align="absmiddle" alt="Node.js"> Node.js &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=express" width="20" height="20" align="absmiddle" alt="Express"> Express |
+| Frontend | <img src="https://skillicons.dev/icons?i=react" width="20" height="20" align="absmiddle" alt="React"> React |
+| Databases | <img src="https://skillicons.dev/icons?i=postgres" width="20" height="20" align="absmiddle" alt="PostgreSQL"> PostgreSQL &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=mysql" width="20" height="20" align="absmiddle" alt="MySQL"> MySQL &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=redis" width="20" height="20" align="absmiddle" alt="Redis"> Redis |
+| Scripting | <img src="https://skillicons.dev/icons?i=bash" width="20" height="20" align="absmiddle" alt="Bash"> Bash |
 
 ## Projects
 
@@ -32,5 +32,5 @@ Full-stack web developer based in Algeria, working as a freelancer. I design and
 
 | Channel | Link |
 |---|---|
-| <img src="assets/icons/gmail.svg" width="20" height="20" align="absmiddle" alt="Email"> Email | [rayan.meziti.bba@gmail.com](mailto:rayan.meziti.bba@gmail.com) |
-| <img src="assets/icons/linkedin.svg" width="20" height="20" align="absmiddle" alt="LinkedIn"> LinkedIn | [linkedin.com/in/rayan-meziti-7029a0260](https://www.linkedin.com/in/rayan-meziti-7029a0260/) |
+| <img src="https://skillicons.dev/icons?i=gmail" width="20" height="20" align="absmiddle" alt="Email"> Email | [rayan.meziti.bba@gmail.com](mailto:rayan.meziti.bba@gmail.com) |
+| <img src="https://skillicons.dev/icons?i=linkedin" width="20" height="20" align="absmiddle" alt="LinkedIn"> LinkedIn | [linkedin.com/in/rayan-meziti-7029a0260](https://www.linkedin.com/in/rayan-meziti-7029a0260/) |
