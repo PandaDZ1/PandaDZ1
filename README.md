@@ -1,12 +1,13 @@
 # Meziti Rayane Aymane
 
-Full-stack web developer based in Algeria, working as a freelancer. I design and build backends, databases and web interfaces for production use. I am looking to join a professional engineering team to improve my practice and contribute what I learned during my freelance career.
+Full-stack web developer based in Algeria, working as a freelancer. I design and build backends, databases and web interfaces for production use. I am looking to join a professional engineering team to improve my practice and contribute what I learned during my freelance career. My SEO work is also available on [Khamsat](https://khamsat.com/user/lp11).
 
 ## Profile
 
 | | |
 |---|---|
 | Role | Full-stack web developer |
+| SEO profile | **[Khamsat: khamsat.com/user/lp11](https://khamsat.com/user/lp11)** |
 | Location | Algeria |
 | Education | Bachelor's degree in Information Systems, University of Algiers 1 |
 | Currently | Developing a SaaS product |
@@ -19,6 +20,7 @@ Full-stack web developer based in Algeria, working as a freelancer. I design and
 | Frontend | <img src="https://skillicons.dev/icons?i=react" width="20" height="20" align="absmiddle" alt="React"> React |
 | Databases | <img src="https://skillicons.dev/icons?i=postgres" width="20" height="20" align="absmiddle" alt="PostgreSQL"> PostgreSQL &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=mysql" width="20" height="20" align="absmiddle" alt="MySQL"> MySQL &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=redis" width="20" height="20" align="absmiddle" alt="Redis"> Redis |
 | Scripting | <img src="https://skillicons.dev/icons?i=bash" width="20" height="20" align="absmiddle" alt="Bash"> Bash |
+| SEO | Technical audits, site speed optimization, backlink building, strategy &nbsp;&nbsp; [![Hire me](https://img.shields.io/badge/Hire%20me-Khamsat-24292f?style=flat-square)](https://khamsat.com/user/lp11) |
 
 ## Projects
 
@@ -34,3 +36,4 @@ Full-stack web developer based in Algeria, working as a freelancer. I design and
 |---|---|
 | <img src="https://skillicons.dev/icons?i=gmail" width="20" height="20" align="absmiddle" alt="Email"> Email | [rayan.meziti.bba@gmail.com](mailto:rayan.meziti.bba@gmail.com) |
 | <img src="https://skillicons.dev/icons?i=linkedin" width="20" height="20" align="absmiddle" alt="LinkedIn"> LinkedIn | [linkedin.com/in/rayan-meziti-7029a0260](https://www.linkedin.com/in/rayan-meziti-7029a0260/) |
+| Khamsat | [khamsat.com/user/lp11](https://khamsat.com/user/lp11) |
